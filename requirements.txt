@@ -11,3 +11,6 @@ python-jose
 PyJWT
 opencv-python-headless
 numpy
+facenet-pytorch
+torch
+
