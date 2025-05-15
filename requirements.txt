@@ -9,5 +9,5 @@ werkzeug
 gunicorn
 python-jose
 PyJWT
-opencv-python
+opencv-python-headless
 numpy
